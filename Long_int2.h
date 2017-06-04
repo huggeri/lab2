@@ -18,7 +18,7 @@ class Long_int
 	void work_with_symbols(Long_int &val2, int key, int &change_symbol);
 	int compare(const Long_int &val2);//сравнение
 	void clean_arr();
-	bool null(Long_int val2);
+	bool null(Long_int &val2);
 	void up_size_array(int length);
 	void reduce_size_array(int length);
 	void clean_string_and_char_to_int(char buff[]);
