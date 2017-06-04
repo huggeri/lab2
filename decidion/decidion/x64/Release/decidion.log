@@ -1,0 +1,10 @@
+﻿  methods_Long_int2.cpp
+..\..\methods_Long_int2.cpp(18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+..\..\methods_Long_int2.cpp(784): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  2 of 59 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  decidion.vcxproj -> C:\Users\katq2\Source\Repos\lab2\decidion\x64\Release\decidion.exe
+  decidion.vcxproj -> C:\Users\katq2\Source\Repos\lab2\decidion\x64\Release\decidion.pdb (Full PDB)
