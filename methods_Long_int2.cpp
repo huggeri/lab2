@@ -412,7 +412,7 @@ long long Long_int::to_long()
 	return value;
 }
 //показывает, есть ли нулевые значения
-bool Long_int::null(Long_int val2)
+bool Long_int::null(Long_int &val2)
 {
 	return (len == 1 && arr[0] == 0) || (val2.len == 1 && val2.arr[0] == 0);
 }
